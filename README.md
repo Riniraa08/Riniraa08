@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I'm a budding data analyst passionate about transforming raw data into actionable insights. My journey in data analysis began recently, and I'm eager to continue honing my skills and learning new techniques. Here's a bit about me:
 
-🌱 I graduated from Tripileten (formerly Practicum) Indonesia Professional Online Bootcamp. 
+🎓 I graduated from Tripileten (formerly Practicum) Indonesia Professional Online Bootcamp. 
 
 ## 💻 Skills:
 * Programming languages: Python
