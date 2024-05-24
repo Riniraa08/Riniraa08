@@ -1,6 +1,6 @@
 # Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Rini Rusmiyati and I'm a Data Analyst
 
-Welcome to my GitHub! I'm a budding data analyst passionate about transforming raw data into actionable insights. My journey in data analysis began recently, and I'm eager to continue honing my skills and learning new techniques. Here's a bit about me:
+Welcome to my portfolio! I'm a budding data analyst passionate about transforming raw data into actionable insights. My journey in data analysis began recently, and I'm eager to continue honing my skills and learning new techniques. Here's a bit about me:
 
 🌱 I graduated from Tripileten (formerly Practicum) Indonesia Professional Online Bootcamp. 
 
