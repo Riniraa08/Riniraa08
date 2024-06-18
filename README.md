@@ -35,4 +35,4 @@ I'm open to collaborating on interesting data projects to help me grow and learn
 
 Thanks for visiting my GitHub profile.
   
-  ![](https://komarev.com/ghpvc/?username=Riniraa08&color=blueviolet&style=for-the-badge&label=visitors)
+  ![](https://komarev.com/ghpvc/?username=Riniraa08&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
